@@ -1,4 +1,5 @@
-# ProjectName: Rush Hour - Try it out ! rushhour.apphb.com
+# ProjectName: Rush Hour - Try it out !
+ http://rushhour.apphb.com/
 
 # Roles: User, Admin and Not logged User
 
